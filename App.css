@@ -1,0 +1,60 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.app-title {
+  margin-bottom: 20px;
+}
+
+.add-feedback {
+  margin-bottom: 20px;
+}
+
+.add-feedback__input {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 200px;
+}
+
+.add-feedback__button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add-feedback__button:hover {
+  background-color: #0056b3;
+}
+
+.feedback-list {
+  margin-bottom: 20px;
+}
+
+.feedback-list__items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.feedback-list__item {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.feedback-list__button {
+  padding: 6px 12px;
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.feedback-list__button:hover {
+  background-color: #218838;
+}
